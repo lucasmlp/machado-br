@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, my name is Lucas Machado!
+ 
+<img src="dev-steph.png" min-width="300px" max-width="300px" width="300px" align="right" alt="logo dev-steph">
+
+<p align="left"> 
+
+ I'm a Back-end Engineer with 4 years of professional experience. My strong background is in .NET, Golang and Node.JS (Serveless). I've also worked with Front-end technologies such as AngularJS and Angular 10. I have experience orchestrating Docker containers with Kubernetes, managing infrastructure as a code with Terraform and managing Kubernetes applications with Helm charts. Also, I have experience working with the GCP and AWS cloud providers. For databases, I've worked with Microsoft SQL Server, PostgreSQL and MongoDB.
+</p>
 
 <!--
 **machado-br/machado-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
