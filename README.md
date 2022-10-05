@@ -1,6 +1,4 @@
 ### Hi, my name is Lucas Machado!
- 
-<img src="dev-steph.png" min-width="300px" max-width="300px" width="300px" align="right" alt="logo dev-steph">
 
 <p align="left"> 
 
